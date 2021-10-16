@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aznyx
+- 👀 I’m interested in lua 
+- 🌱 I’m currently learning lua 
+- 📫 Discord : Aznyx#1111
